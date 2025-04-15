@@ -12,4 +12,5 @@ def my_func():
     d = a + b
     return d
 
+
 my_func()
