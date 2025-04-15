@@ -1,5 +1,7 @@
-def my_func():
+def hello():
     """
-    This is my_func from demo.py
+    This is hello from demo.py
     """
     return print("Hello dev branch !!!")
+
+hello()
