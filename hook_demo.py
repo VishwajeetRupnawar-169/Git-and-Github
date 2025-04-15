@@ -2,6 +2,7 @@
 hook_demo.py - Demonstrates a simple function for addition.
 """
 
+
 def my_func():
     """
     Adds two numbers and returns the result.
